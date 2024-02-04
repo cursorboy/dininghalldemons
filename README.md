@@ -2,7 +2,9 @@
 
 
 If you want to try make sure to run these commands in terminal for windows: 
+
 pip install torch torchvision torchaudio
+
 pip install opencv-python
 
 
