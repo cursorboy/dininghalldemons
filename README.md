@@ -18,5 +18,3 @@ Ortega: https://api.ucsb.edu/dining/cams/v2/stream/ortega?ucsb-api-key=0AVpBy0Hf
 
 Portola: https://api.ucsb.edu/dining/cams/v2/stream/portola?ucsb-api-key=0AVpBy0HfloWaEQHPanHTGSYmXusaNIJ
 
-
-Just a simple readme

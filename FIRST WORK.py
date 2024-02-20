@@ -63,3 +63,6 @@ def main(video_stream_url):
 if __name__ == '__main__':
     video_stream_url = 'https://api.ucsb.edu/dining/cams/v2/stream/de-la-guerra?ucsb-api-key=0AVpBy0HfloWaEQHPanHTGSYmXusaNIJ'
     main(video_stream_url)
+
+
+
